@@ -130,3 +130,6 @@ pokemon$height
 pokemon$abilities
 ```
 
+## Closing thoughts
+
+Be reasonable. You are requesting data from online resources, so could be interpreted as spam (maybe just do it the once and then you can revisit if you think there are updates)
